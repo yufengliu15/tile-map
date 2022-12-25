@@ -12,6 +12,7 @@ A simple program that creates an 'x' by 'y' big rectangle containing the integer
 Above is sample tiles, with a desert theme on the left and forest theme on the right. 
 
 An example of a tile map data file would look like:
+
 ('4', '4')
 | 0 | 1 | 3 | 0 |
 |---|---|---|---|
